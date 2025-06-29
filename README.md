@@ -23,6 +23,9 @@ The project prioritizes cybersecurity by using an algorithm to sanitize each cli
 ## Deployment
 The project is currently deployed on Render at https://blog-ji15.onrender.com
 
+![Screenshot 2025-06-28 211156](https://github.com/user-attachments/assets/f2599391-a1b4-4488-b548-83be531cd1c4)
+![Screenshot 2025-06-28 211227](https://github.com/user-attachments/assets/0c0b1c9f-8ad2-403c-beab-e772fb01cc0a)
+
 
 ## Installation
 1. Clone the repository: 
