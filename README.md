@@ -21,13 +21,13 @@ Registered and logged-in users can leave comments on the blog posts. The 'Contac
 The project prioritizes cybersecurity by using an algorithm to sanitize each client's HTML input. The algorithm removes unwanted tags, attributes, unescaped characters, and unclosed or misnested tags.
 
 ## Deployment
-The project is currently deployed on Render at https://martyna-blog.onrender.com
+The project is currently deployed on Render at https://blog-ji15.onrender.com
 
 
 ## Installation
 1. Clone the repository: 
 ```
-git clone https://github.com/Veluthil/Blog-with-users-Flask.git
+git clone https://github.com/riteshh45/blog.git
 ```
 2. Change directory into the project folder
 3. Create virtual environment: 
