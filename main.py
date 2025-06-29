@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 
 
 # DOTENV
-load_dotenv("D:/Programming/PythonEnV/.env.txt")
+load_dotenv()
 MY_EMAIL = os.getenv("EC_YOUR_EMAIL")
 
 app = Flask(__name__)
